@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm Dmitrii, nice to meet you!✨
-
-[![Linkedin: dmitrii-shumilin](https://img.shields.io/badge/-Dmitrii Shumilin-blue?..)](https://www.linkedin.com/in/dmitrii-shumilin/)
+[![Linkedin: dmitrii-shumilin](https://img.shields.io/badge/-Dmitrii%20Shumilin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitrii-shumilin/)](https://www.linkedin.com/in/dmitrii-shumilin/)
 ![Profile views](https://gpvc.arturio.dev/ShumilinDmA)
 
 <!--
