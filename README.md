@@ -9,10 +9,13 @@ On the way to becoming real a Data Scientist!
 
 #### :octopus: Pet projects and courses related tasks:
 * Object detection Web App [Github](https://github.com/ShumilinDmA/Object_detection_pet)
-* Classification of wood species based on high resilution images [Github](https://github.com/ShumilinDmA/Classification_of_wood_species_based_on_images)
-* "Leap motion digits recognizer" or "Neural Network from scratch" [Github](https://github.com/ShumilinDmA/LeapMotion_digits_recognizer) [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/LeapMotion_digits_recognizer/blob/main/Pipeline.ipynb)
-* Neural Style Transfer by using VGG19 [Github](https://github.com/ShumilinDmA/Projects_and_competitions/tree/main/Neural_Style_Transfer_based_on_VGG19) [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Projects_and_competitions/blob/main/Neural_Style_Transfer_based_on_VGG19/Neural_Style_Transfer_based_on_VGG19.ipynb)
-* Kaggle competition "Journey to Springfield" [Github](https://github.com/ShumilinDmA/Projects_and_competitions) [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Projects_and_competitions/blob/main/Resnet50_Simpsons.ipynb)  
+* Classification of wood species based on high resilution images [Github](https://github.com/ShumilinDmA/Classification_of_wood_species_based_on_images), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Classification_of_wood_species_based_on_images/blob/main/notebooks/Forest_Species.ipynb), [Report](https://github.com/ShumilinDmA/Classification_of_wood_species_based_on_images/blob/main/reports/Report.pdf)
+* "Leap motion digits recognizer" or "Neural Network from scratch" [Github](https://github.com/ShumilinDmA/LeapMotion_digits_recognizer), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/LeapMotion_digits_recognizer/blob/main/Pipeline.ipynb), [Report](https://github.com/ShumilinDmA/LeapMotion_digits_recognizer/blob/main/reports/Report.pdf)
+* Neural Style Transfer by using VGG19 [Github](https://github.com/ShumilinDmA/Projects_and_competitions/tree/main/Neural_Style_Transfer_based_on_VGG19), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Projects_and_competitions/blob/main/Neural_Style_Transfer_based_on_VGG19/Neural_Style_Transfer_based_on_VGG19.ipynb)
+* Kaggle competition "Journey to Springfield" [Github](https://github.com/ShumilinDmA/Projects_and_competitions), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Projects_and_competitions/blob/main/Resnet50_Simpsons.ipynb)
+* Fault detection based on PCA and Hotelling Statistic (Streamlit Web App) [Github](https://github.com/ShumilinDmA/Articles_implementation/tree/main/Fault%20detection%20in%20industrial), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Articles_implementation/blob/main/Fault%20detection%20in%20industrial/Fault_detection.ipynb), [Report](https://github.com/ShumilinDmA/Articles_implementation/blob/main/Fault%20detection%20in%20industrial/Report.pdf)
+
+
 
 #### 📫 How to reach me:
 * Email: ShumilinDmAl@gmai.com
