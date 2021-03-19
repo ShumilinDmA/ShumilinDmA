@@ -7,7 +7,7 @@
 
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShumilinDmA&theme=dark-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShumilinDmA&theme=dark-dark)](https://github.com/anuraghazra/github-readme-stats)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=ShumilinDmA&theme=dark-dark)
 <!--
 **ShumilinDmA/ShumilinDmA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
