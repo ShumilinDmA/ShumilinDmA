@@ -1,4 +1,8 @@
 ### Hi there 👋
+### I'm Dmitrii, nice to meet you!✨
+
+[![Linkedin: dmitrii-shumilin](https://img.shields.io/badge/-Dmitrii Shumilin-blue?..)](https://www.linkedin.com/in/dmitrii-shumilin/)
+![Profile views](https://gpvc.arturio.dev/ShumilinDmA)
 
 <!--
 **ShumilinDmA/ShumilinDmA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
