@@ -44,5 +44,5 @@ of text tokens.
 
 <br/><br>
 More links:
-* [Deeplearning.ai | Deep Learning Specialization]()
-* [Yandex and MIPT | Machine Learning and Data Analysis Specialization]()
+* [Deeplearning.ai | Deep Learning Specialization](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/DL_AI.md)
+* [Yandex and MIPT | Machine Learning and Data Analysis Specialization](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MLandDA_specialization.md)
