@@ -28,5 +28,5 @@ It was the Kaggle competition with a pretty tricky solution with the definition 
 
 <br/><br>
 More links:
-* [Deeplearning.ai | Deep Learning Specialization]()
-* [Moscow Institute of Physics and Technology | Deep Learning School](https://github.com/ShumilinDmA/ShumilinDmA/edit/main/DLS.md)
+* [Deeplearning.ai | Deep Learning Specialization](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/DL_AI.md)
+* [Moscow Institute of Physics and Technology | Deep Learning School](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/DLS.md)
