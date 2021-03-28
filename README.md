@@ -15,6 +15,9 @@ On the way to becoming real a Data Scientist!
 * Kaggle competition "Journey to Springfield" [Github](https://github.com/ShumilinDmA/Projects_and_competitions), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Projects_and_competitions/blob/main/Resnet50_Simpsons.ipynb)
 * Fault detection based on PCA and Hotelling Statistic (Streamlit Web App) [Github](https://github.com/ShumilinDmA/Articles_implementation/tree/main/Fault%20detection%20in%20industrial), [Notebook](https://nbviewer.jupyter.org/github/ShumilinDmA/Articles_implementation/blob/main/Fault%20detection%20in%20industrial/Fault_detection.ipynb), [Report](https://github.com/ShumilinDmA/Articles_implementation/blob/main/Fault%20detection%20in%20industrial/Report.pdf)
 
+#### :briefcase: Recommendation letters:
+* Recommendation letter from Toni Kuronen [PDF](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Recommendation_letter_from_Toni_Kuronen.pdf)
+
 #### :newspaper_roll: Published articles:
 * M. Rumyantsev, D. Shumilin, “Automated complex for the study of high-speed electric turbomachines”, V International Conference on Information Technologies in Engineering Education (Inorino) 2020, Moscow, Russia, 2020 [PDF, EN](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Automated%20complex%20for%20researching%20high-speed%20electric%20turbomachines.pdf)
 * Shumilin DA, Rumyantsev M.Yu., Sizyakin AV. "Development of a low-power turbogenerator working on Organic Rankine Cycle". Energy. Technologies of the future. Proceedings of the III scientific and technical conference of students. MPEI, Moscow, Russia, 2020 [PDF, RU](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Development%20of%20a%20low-power%20turbogenerator%20working%20on%20Organic%20Rankine%20Cycle.pdf)
