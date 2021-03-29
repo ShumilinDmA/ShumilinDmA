@@ -19,7 +19,9 @@ On the way to becoming real a Data Scientist!
 * Recommendation letter from Toni Kuronen [PDF](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Recommendation_letter_from_Toni_Kuronen.pdf)
 
 #### :newspaper_roll: Published articles:
-* M. Rumyantsev, D. Shumilin, “Automated complex for the study of high-speed electric turbomachines”, V International Conference on Information Technologies in Engineering Education (Inorino) 2020, Moscow, Russia, 2020 [PDF, EN](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Automated%20complex%20for%20researching%20high-speed%20electric%20turbomachines.pdf)
+* M. Rumyantsev, D. Shumilin, “Automated complex for the study of high-speed electric turbomachines”, V International Conference on Information Technologies in Engineering Education (Inorino) 2020, Moscow, Russia, 2020 [PDF, EN](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Automated%20complex%20for%20researching%20high-speed%20electric%20turbomachines.pdf) [<img src="https://user-images.githubusercontent.com/64522272/112772535-0e753f80-903a-11eb-968d-168e754dc8ab.png" width="23">](https://youtu.be/W5nDgJzcO7A)
+
+
 * Shumilin DA, Rumyantsev M.Yu., Sizyakin AV. "Development of a low-power turbogenerator working on Organic Rankine Cycle". Energy. Technologies of the future. Proceedings of the III scientific and technical conference of students. MPEI, Moscow, Russia, 2020 [PDF, RU](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Development%20of%20a%20low-power%20turbogenerator%20working%20on%20Organic%20Rankine%20Cycle.pdf)
 
 #### :microphone: Conferences: 
