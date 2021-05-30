@@ -4,8 +4,10 @@
 ![Profile views](https://gpvc.arturio.dev/ShumilinDmA)
 
 Currently, I'm a master degree student at <img src="https://user-images.githubusercontent.com/64522272/111808150-c725db00-88e4-11eb-99b5-ee3a0b7c7dff.png" width="50">  
-I'm trying to find the nature of things 🌱 by using Data Science and Machine Learning with Engineering approaches and curiosity  
-On the way to becoming real a Data Scientist!
+I'm trying to find the nature of things 🌱 by using Data Science and Machine Learning with Engineering approaches and curiosity
+
+#### :office: Experience
+* Intern at Sberbank, Risk Management Research department since May, 2021 <img src="https://user-images.githubusercontent.com/64522272/120102417-8e5f7900-c153-11eb-8a1b-f82f7b1bf04a.png" width="15">
 
 #### :octopus: Pet projects and courses related tasks:
 * Object detection Web App [Github](https://github.com/ShumilinDmA/Object_detection_pet)
