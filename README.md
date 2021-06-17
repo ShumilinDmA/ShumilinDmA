@@ -20,7 +20,7 @@ I'm trying to find the nature of things 🌱 by using Data Science and Machine L
 * Recommendation letter from Toni Kuronen [PDF](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Recommendation_letter_from_Toni_Kuronen.pdf)
 
 #### :mortar_board: Education:
-* Master degree at <img src="https://user-images.githubusercontent.com/64522272/111808150-c725db00-88e4-11eb-99b5-ee3a0b7c7dff.png" width="50"> Finland, [Thesis, ENG](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_eng.pdf)  
+* Master degree at <img src="https://user-images.githubusercontent.com/64522272/111808150-c725db00-88e4-11eb-99b5-ee3a0b7c7dff.png" width="50">, Finland, [Thesis, ENG](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_eng.pdf)  
 * Master degree at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia, [Thesis, RUS](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_rus.pdf)
 * Bachelor degree at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia
 
