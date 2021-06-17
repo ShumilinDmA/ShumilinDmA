@@ -3,7 +3,6 @@
 [![Linkedin: dmitrii-shumilin](https://img.shields.io/badge/-Dmitrii%20Shumilin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitrii-shumilin/)](https://www.linkedin.com/in/dmitrii-shumilin/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShumilinDmA&count_bg=%23585858&title_bg=%2331E703&icon=&icon_color=%23E7E7E7&title=Page+views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-Currently, I'm a master degree student at <img src="https://user-images.githubusercontent.com/64522272/111808150-c725db00-88e4-11eb-99b5-ee3a0b7c7dff.png" width="50">  
 I'm trying to find the nature of things 🌱 by using Data Science and Machine Learning with Engineering approaches and curiosity
 
 #### :office: Experience
@@ -19,6 +18,11 @@ I'm trying to find the nature of things 🌱 by using Data Science and Machine L
 
 #### :briefcase: Recommendation letters:
 * Recommendation letter from Toni Kuronen [PDF](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Recommendation_letter_from_Toni_Kuronen.pdf)
+
+#### :mortar_board: Education:
+* Master degree at <img src="https://user-images.githubusercontent.com/64522272/111808150-c725db00-88e4-11eb-99b5-ee3a0b7c7dff.png" width="50"> Finland, [Thesis, ENG](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_eng.pdf)  
+* Master degree at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia, [Thesis, RUS](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_rus.pdf)
+* Bachelor degree at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia
 
 #### :newspaper_roll: Published articles:
 * M. Rumyantsev, D. Shumilin, “Automated complex for the study of high-speed electric turbomachines”, V International Conference on Information Technologies in Engineering Education (Inorino) 2020, Moscow, Russia, 2020 [PDF, EN](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Automated%20complex%20for%20researching%20high-speed%20electric%20turbomachines.pdf) [<img src="https://user-images.githubusercontent.com/64522272/112772535-0e753f80-903a-11eb-968d-168e754dc8ab.png" width="23">](https://youtu.be/W5nDgJzcO7A)
