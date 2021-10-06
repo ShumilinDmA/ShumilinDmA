@@ -6,7 +6,7 @@
 I'm trying to find the nature of things 🌱 by using Data Science and Machine Learning with Engineering approaches and curiosity
 
 #### :office: Experience
-* Intern at Sberbank, Risk Modelling department since May, 2021 <img src="https://user-images.githubusercontent.com/64522272/120102417-8e5f7900-c153-11eb-8a1b-f82f7b1bf04a.png" width="15">
+* Intern at Sberbank, Risk Modelling department: May, 2021 - October, 2021 <img src="https://user-images.githubusercontent.com/64522272/120102417-8e5f7900-c153-11eb-8a1b-f82f7b1bf04a.png" width="15">
 
 #### :octopus: Pet projects and courses related tasks:
 * Object detection Web App [Github](https://github.com/ShumilinDmA/Object_detection_pet)
@@ -21,6 +21,7 @@ I'm trying to find the nature of things 🌱 by using Data Science and Machine L
 * Recommendation letter from Toni Kuronen [PDF](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/Recommendation_letter_from_Toni_Kuronen.pdf)
 
 #### :mortar_board: Education:
+* PhD at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia: October, 2021 - Present
 * Master degree at <img src="https://user-images.githubusercontent.com/64522272/111808150-c725db00-88e4-11eb-99b5-ee3a0b7c7dff.png" width="50">, Finland, [Thesis, ENG](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_eng.pdf)  
 * Master degree at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia, [Thesis, RUS](https://github.com/ShumilinDmA/ShumilinDmA/blob/main/MASTER_THESIS_rus.pdf)
 * Bachelor degree at <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/1/1f/Logo_MPEI.jpg/1200px-Logo_MPEI.jpg" width="35">, Russia
