@@ -6,7 +6,8 @@
 I'm trying to find the nature of things 🌱 by using Data Science and Machine Learning with Engineering approaches and curiosity
 
 #### :office: Experience
-* Data Science Intern at Sberbank, Risk Modelling department: May, 2021 - October, 2021 <img src="https://user-images.githubusercontent.com/64522272/120102417-8e5f7900-c153-11eb-8a1b-f82f7b1bf04a.png" width="15">
+* Data Scientist at X5 Retail Group, Demand Planning Department: October, 2021 - Present <img src="https://habrastorage.org/getpro/moikrug/uploads/company/182/104/748/logo/medium_4c4bcaad0852306d9b56590f1c26805a.jpg" width="15">
+* Intern Data Scientist at Sberbank, Risk Modelling department: May, 2021 - October, 2021 <img src="https://user-images.githubusercontent.com/64522272/120102417-8e5f7900-c153-11eb-8a1b-f82f7b1bf04a.png" width="15">
 
 #### :octopus: Pet projects and courses related tasks:
 * Object detection Web App [Github](https://github.com/ShumilinDmA/Object_detection_pet)
